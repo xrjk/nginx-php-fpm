@@ -58,6 +58,7 @@ RUN buildDeps='curl gcc make autoconf libc-dev zlib1g-dev pkg-config' \
             php7.3-mysql \
             php7.3-zip \
             php7.3-pgsql \
+	    php7.3-sqlite \
             php7.3-intl \
             php7.3-xml \
             php-pear \
